@@ -26,7 +26,7 @@ function QuotesTest(){
         <div>
         <h1>{quote}</h1>
          <p>{author}</p>
-         <h2>HI</h2>
+         
          <button onClick={()=>{getQuotes()}} id="new-quote">Get Quotes</button>
         </div>
     );
